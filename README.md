@@ -17,7 +17,9 @@ Caso tenha alguma dúvida ou sugestão, sinta-se a vontade para passar seu feedb
 
 
 <br />
+
 ![Lima github stats](https://github-readme-stats.vercel.app/api?username=lima08&hide=["issues"]&show_icons=true)
+
 <br />
 
 **Linguagens e ferramentas:**  
