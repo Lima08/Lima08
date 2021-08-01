@@ -12,16 +12,12 @@ Caso tenha alguma dúvida ou sugestão, sinta-se a vontade para passar seu feedb
 <br />
 <br />
 
-![Lima github stats](https://github-readme-stats.vercel.app/api?username=lima08&hide=["issues"]&show_icons=true)
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaopaulo.gomeslima8@gmail.com)](mailto:joaopaulo.gomeslima8@gmail.com)
 
 
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
-</p>
-
-<br />
+![Lima github stats](https://github-readme-stats.vercel.app/api?username=lima08&hide=["issues"]&show_icons=true)
 <br />
 
 **Linguagens e ferramentas:**  
