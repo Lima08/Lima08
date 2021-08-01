@@ -1,48 +1,40 @@
 # Sejam todos bem vindos e bem vindas!
  
-![Lima provile](https://github.com/Lima08/Lima08/blob/main/GitHub-cover%20-%201.png)
+![Lima profile](https://github.com/Lima08/Lima08/blob/main/GitHub-cover%20-%201.png)
 ![Lima github stats](https://github-readme-stats.vercel.app/api?username=lima08&hide=["issues"]&show_icons=true)
-<!--
-**Lima08/Lima08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaopaulo.gomeslima8@gmail.com)](mailto:joaopaulo.gomeslima8@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Meu nome é João Paulo, mas pode me chamar de Lima. Trabalhei por quase 10 anos como supervisor de equipe e por 4 anos como organizador de eventos. Atualmente me dedico de forma integral aos estudos de tecnologias para desenvolvimento web, algo que sou apaixonado. 
+Caso tenha alguma dúvida ou sugestão, sinta-se a vontade para passar seu feedback :nerd_face:
 
 
-<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/suyash-srivastava-458b01173) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
+<br />
+<br />
 
-I am Suyash. I am from Vellore,Tamil Nadu and currently doing my B.Tech from Vellore Institute of Technology 🏫.I love to do web development and open to learning new technologies.
+**Linguagens e ferramentas:**  
 
-## 💻 Projects
-* [COVID 19 TRACKER (Graph Display and Clickable Globe UI)](https://suyash-srivastava.github.io/suyashsrivastava/COVID19)
-* [Weather App (from OpenWeather API)](https://suyash-srivastava.github.io/suyashsrivastava/Weather)
-* [Notes App](https://suyash-srivastava.github.io/suyashsrivastava/Notes)
-* [Website for NGO (In Development Phase)](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
-* [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
+</p>
 
-## ⚡ Technologies 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **SQL,PHP**
-- Worked with **Active Directories**
-- Leaning Web Design with Figma
-- Android app development using **Android Studio**(Still learning)
-- Solving Data structure and algorithm questions in **Java**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
+</p>
 
-## 👋 Reach out to me 
-- 💬 Ask me about anything.
-- 🖼️ Portfolio site: [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
-- 💎 Fun fact: You lose automatically if you dont try.
-
-![Suyash github stats](https://github-readme-stats.vercel.app/api?username=Suyash-Srivastava&hide=["issues"]&show_icons=true)
--->
