@@ -1,4 +1,4 @@
-# Bem vindos e bem vindas ao repositório Lima
+# Sejam todos bem vindos e bem vindas!
  
 ![Lima provile](https://github.com/Lima08/Lima08/blob/main/GitHub-cover%20-%201.png)
 ![Lima github stats](https://github-readme-stats.vercel.app/api?username=lima08&hide=["issues"]&show_icons=true)
