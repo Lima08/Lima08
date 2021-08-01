@@ -6,7 +6,8 @@
 
 <br />
 
-Meu nome é João Paulo, mas pode me chamar de Lima. Trabalhei por quase 10 anos como supervisor de equipe e por 4 anos como organizador de eventos. Atualmente me dedico de forma integral aos estudos de tecnologias para desenvolvimento web, algo que sou apaixonado. 
+Meu nome é João Paulo, mas pode me chamar de Lima.:mechanical_arm:
+Trabalhei por quase 10 anos como supervisor de equipe e por 4 anos como organizador de eventos. Atualmente me dedico de forma integral aos estudos de tecnologias para desenvolvimento web, algo que sou apaixonado. 
 Caso tenha alguma dúvida ou sugestão, sinta-se a vontade para passar seu feedback :nerd_face:
 
 <br />
