@@ -1,5 +1,5 @@
 ### Bem vindos e bem vindas ao repositório Lima  👋
-
+![Lima provile](/GitHub-cover - 1.png)
 ![Lima github stats](https://github-readme-stats.vercel.app/api?username=lima08&hide=["issues"]&show_icons=true)
 <!--
 **Lima08/Lima08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
