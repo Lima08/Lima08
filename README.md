@@ -10,7 +10,6 @@ Meu nome é João Paulo, mas pode me chamar de Lima. Trabalhei por quase 10 anos
 Caso tenha alguma dúvida ou sugestão, sinta-se a vontade para passar seu feedback :nerd_face:
 
 <br />
-<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaopaulo.gomeslima8@gmail.com)](mailto:joaopaulo.gomeslima8@gmail.com)
