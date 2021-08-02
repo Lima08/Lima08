@@ -6,16 +6,16 @@
 
 <br />
 
-Meu nome é João Paulo, mas pode me chamar de Lima   :mechanical_arm: <br />
+Meu nome é João Paulo, mas pode me chamar de Lima  :mechanical_arm: <br />
 Trabalhei por quase 10 anos como supervisor de equipe e por 4 anos como organizador de eventos. Atualmente me dedico de forma integral aos estudos de tecnologias para desenvolvimento web, algo que sou apaixonado. <br />
 Alguma dúvida ou sugestão sobre meus códigos? Sinta-se a vontade para passar seu feedback :nerd_face:
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaopaulo.gomeslima8@gmail.com)](mailto:joaopaulo.gomeslima8@gmail.com)
-
-<br />
+<div>
+ [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaopaulo.gomeslima8@gmail.com)](mailto:joaopaulo.gomeslima8@gmail.com)
+</div>
 
  <div>
   <a href="https://github.com/Lima08">
