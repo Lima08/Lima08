@@ -15,12 +15,8 @@ Alguma dúvida ou sugestão sobre meus códigos? Sinta-se a vontade para passar 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaopaulo.gomeslima8@gmail.com)](mailto:joaopaulo.gomeslima8@gmail.com)
 
-
 <br />
 
-![Lima github stats](https://github-readme-stats.vercel.app/api?username=lima08&hide=["issues"]&show_icons=true)
-
-<br />
  <div>
   <a href="https://github.com/Lima08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lima08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
