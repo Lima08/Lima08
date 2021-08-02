@@ -12,10 +12,8 @@ Alguma dúvida ou sugestão sobre meus códigos? Sinta-se a vontade para passar 
 
 <br />
 
-<div>
- [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaopaulo.gomeslima8@gmail.com)](mailto:joaopaulo.gomeslima8@gmail.com)
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=black&link=mailto:joaopaulo.gomeslima8@gmail.com)](mailto:joaopaulo.gomeslima8@gmail.com)
 
  <div>
   <a href="https://github.com/Lima08">
