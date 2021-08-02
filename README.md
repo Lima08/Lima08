@@ -2,7 +2,7 @@
 
 <br />
 
-![Lima profile](https://github.com/Lima08/Lima08/blob/main/GitHub-cover%20-%201.png)
+![Lima profile](https://github.com/Lima08/Lima08/blob/main/repositorioLima.png)
 
 <br />
 
