@@ -7,7 +7,7 @@
 <br />
 
 Meu nome é João Paulo, mas pode me chamar de Lima  :mechanical_arm: <br />
-Trabalhei por quase 10 anos como supervisor de equipe e por 4 anos como organizador de eventos. Atualmente me dedico de forma integral aos estudos de tecnologias para desenvolvimento web, algo que sou apaixonado. <br />
+Trabalhei por quase 10 anos como supervisor de equipe e por 4 anos como organizador de eventos. Atualmente trabalho como Summer de instrução na Trybe, escola de programação, onde curso desenvolvimento web. <br />
 Alguma dúvida ou sugestão sobre meus códigos? Sinta-se a vontade para passar seu feedback :nerd_face:
 
 <br />
