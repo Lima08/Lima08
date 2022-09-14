@@ -1,4 +1,4 @@
-# Sejam todos bem vindos e bem vindas!
+# Bem vindos e bem vindas!
 
 <br />
 
