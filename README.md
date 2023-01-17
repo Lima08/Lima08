@@ -6,9 +6,13 @@
 
 <br />
 
-Meu nome é João Paulo, mas pode me chamar de Lima  :mechanical_arm: <br />
-Trabalhei por 9 anos como supervisor de equipe e por 4 anos como organizador de eventos. Atualmente trabalho como desenvolvedor web full-stack. <br />
-Dúvidas ou sugestões sobre meus códigos? Sinta-se a vontade para passar seu feedback :nerd_face:
+Após trabalhar como supervisor de equipe por mais de 8 anos, decidi mudar totalmente de carreira e me jogar no mundo de desenvolvimento de software. Desde 2021 tenho estudado e trabalhado com JavaScript, Node, React, React Native, Vue, Stencil.js, GraphQL, TypeOrm, MySql, entre outras tecnologias.
+
+Em 2022 iniciei como desenvolvedor full-stack, construindo uma plataforma Sass de e-commerce, entregando soluções como gateways de pagamento, CRM, ERP e serviços de entrega. Trabalhando remotamente em um time Agile tive a oportunidade de trabalhar em diversas atividades de front-end, back-end, arquitetura e testes.
+
+Ao longo da minha carreira trabalhei em diferentes projetos e posições, tais como produtor de eventos musicais multiculturais, pesquisas de audiência de rádio e, mais recentemente, com desenvolvimento de tecnologias para e-commerce. Gosto de resolver problemas e trazer ideias para realidade!
+
+Meu objetivo é unir minha experiência com trabalho em equipe aos conhecimentos em desenvolvimento web para construir soluções que tenham impacto positivo na vida das pessoas. O meu trabalho é com pessoas, processos e principalmente propósito!
 
 <br />
 
