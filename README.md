@@ -1,4 +1,4 @@
-# welcome!
+# Bem vindas e bem vindos!
 
 <br />
 
@@ -6,13 +6,13 @@
 
 <br />
 
-After working as a team supervisor for over eight years, I decided to change my carrier and throw myself into the software developer world. Since 2021 I've been studying and working with JavaScript, NodeJs, ReactJs, React Native, Vue, Stencil.js, GraphQL, TypeOrm, MySql, and other technologies.
+Após trabalhar como supervisor de equipe por mais de 8 anos, decidi mudar totalmente de carreira e me jogar no mundo de desenvolvimento de software. Desde 2021 tenho estudado e trabalhado com JavaScript, NodeJs, React.JS, React Native, Vue, Stencil.js, GraphQL, TypeOrm, MySql, entre outras tecnologias.
 
-In 2022 I started working as a full-stack developer, building an e-commerce Saas platform and delivering solutions such as payment gateways, CRM, ERP, and shipping services. Working in these remote Agile teams, I've experienced several areas of software development, such as front-end, back-end, mobile, architecture, and tests.
+Em 2022 iniciei como desenvolvedor full-stack, construindo uma plataforma Sass de e-commerce, entregando soluções como gateways de pagamento, CRM, ERP e serviços de entrega. Trabalhando remotamente em um time Agile tive a oportunidade de trabalhar em diversas atividades de front-end, back-end, arquitetura e testes.
 
-Throughout my career, I've already had the opportunity to participate in different kinds of projects and positions, such as multicultural music events producer, radio audience research, and now, building e-commerce solutions. I'm a solving problems guy that tries to bring ideas to reality.
+Ao longo da minha carreira trabalhei em diferentes projetos e posições, tais como produtor de eventos musicais multiculturais, pesquisas de audiência de rádio e, mais recentemente, com desenvolvimento de tecnologias para e-commerce. Gosto de resolver problemas e trazer ideias para realidade!
 
-I want to merge my teamwork experience with software developer knowledge to build solutions that positively impact people's lives. It is a meaningful goal in my career, and I'm all seeking it. My work is with people, processes, and mainly purpose!
+Meu objetivo é unir minha experiência com trabalho em equipe aos conhecimentos em desenvolvimento web para construir soluções que tenham impacto positivo na vida das pessoas. O meu trabalho é com pessoas, processos e principalmente propósito!
 
 <br />
 
