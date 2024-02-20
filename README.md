@@ -1,18 +1,10 @@
-# Bem vindas e bem vindos!
+After eight years of leadership as a team supervisor, I embraced a pivotal career shift into software development in 2021. Since then, I've been working with modern technologies, including JavaScript, TypeScript, Vue.js, React.js, Node.js, Docker, GraphQL, and SQL. This diverse technical skill set enables me to contribute effectively to projects across the full spectrum of web development.
 
-<br />
+In 2022, I ventured into the e-commerce industry, contributing to a SaaS platform by developing CRM and ERP solutions. This experience not only sharpened my technical abilities but also deepened my understanding of the critical business processes that drive successful online platforms.
 
-![Lima profile](https://github.com/Lima08/Lima08/blob/main/repositorioLima.png)
+Today, I am driven by a mission to leverage my blend of leadership and technical skills to develop solutions that have a meaningful impact on people's lives.
 
-<br />
-
-Após trabalhar como supervisor de equipe por mais de 8 anos, decidi mudar totalmente de carreira e me jogar no mundo de desenvolvimento de software. Desde 2021 tenho estudado e trabalhado com JavaScript, NodeJs, React.JS, React Native, Vue, Stencil.js, GraphQL, TypeOrm, MySql, entre outras tecnologias.
-
-Em 2022 iniciei como desenvolvedor full-stack, construindo uma plataforma Sass de e-commerce, entregando soluções como gateways de pagamento, CRM, ERP e serviços de entrega. Trabalhando remotamente em um time Agile tive a oportunidade de trabalhar em diversas atividades de front-end, back-end, arquitetura e testes.
-
-Ao longo da minha carreira trabalhei em diferentes projetos e posições, tais como produtor de eventos musicais multiculturais, pesquisas de audiência de rádio e, mais recentemente, com desenvolvimento de tecnologias para e-commerce. Gosto de resolver problemas e trazer ideias para realidade!
-
-Meu objetivo é unir minha experiência com trabalho em equipe aos conhecimentos em desenvolvimento web para construir soluções que tenham impacto positivo na vida das pessoas. O meu trabalho é com pessoas, processos e principalmente propósito!
+My work is with people, processes, and mainly purpose!
 
 <br />
 
