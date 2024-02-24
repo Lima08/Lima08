@@ -1,12 +1,12 @@
 ### Hey there, I'm Lima!
 
-After eight years of leadership as a team supervisor, I embraced a pivotal career shift into software development in 2021. Since then, I've been working with modern technologies, including JavaScript, TypeScript, Vue.js, React.js, Node.js, Docker, GraphQL, and SQL. This diverse technical skill set enables me to contribute effectively to projects across the full spectrum of web development.
+<p>After eight years of leadership as a team supervisor, I embraced a pivotal career shift into software development in 2021. Since then, I've been working with a focus on Front End development.</p>
 
-In 2022, I ventured into the e-commerce industry, contributing to a SaaS platform by developing CRM and ERP solutions. This experience not only sharpened my technical abilities but also deepened my understanding of the critical business processes that drive successful online platforms.
+<p>In 2022, I ventured into the e-commerce industry, contributing to a SaaS platform by developing CRM and ERP solutions.</p>
 
-Today, I am driven by a mission to leverage my blend of leadership and technical skills to develop solutions that have a meaningful impact on people's lives.
+<p>Today, I am driven by a mission to leverage my blend of teamwork and technical skills to develop solutions that have a meaningful impact on people's lives.</p>
 
-My work is with people, processes, and mainly purpose!
+<strong>My work is with people, processes, and mainly purpose!</strong>
 
 <br />
 
