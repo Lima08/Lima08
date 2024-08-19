@@ -6,8 +6,6 @@
 
 <p>Today, I am driven by a mission to leverage my blend of teamwork and technical skills to develop solutions that have a meaningful impact on people's lives.</p>
 
-<strong>My work is with people, processes, and mainly purpose!</strong>
-
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-gomes-lima-008/)](https://www.linkedin.com/in/joao-paulo-gomes-lima-008/) 
